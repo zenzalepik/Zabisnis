@@ -1,0 +1,28 @@
+baseURL = '/'
+languageCode = 'en'
+defaultContentLanguage = "en"
+hasCJKLanguage = true
+enableEmoji = true
+title = 'Zalepik Software Developer'
+copyright = 'CV. Zalepik Software Developer'
+theme = 'hugo-theme-itheme'
+paginate = 5
+[params]
+  defaultCover = 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
+  email = 'zalepik@outlook.com'
+  telephone = '+6285720075826'
+  [[params.socialMedia]]
+    name = 'Dribbble'
+    url = 'https://www.dribbble.com/zalepik'
+  [[params.socialMedia]]
+    name = 'Behance'
+    url = 'https://www.behance.net/zalepik'
+  [[params.socialMedia]]
+    name = 'Instagram'
+    url = 'https://www.instagram.com/zalepik_studio/'
+  [[params.socialMedia]]
+    name = 'Whatsapp'
+    url = 'https://wa.me/6285720075826?text=Assalamu%27alaikum...%0A%0A%F0%9F%91%8BHalo...%20Saya%20ingin%20memesan%20jasa%20pembuatan%20website%0A%0A'
+  [[params.blogroll]]
+    name = '驭风笔记'
+    url = 'https://yufengbiji.com/'

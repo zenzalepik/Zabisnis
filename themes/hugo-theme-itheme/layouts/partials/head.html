@@ -1,0 +1,148 @@
+<head>
+  <meta charset="utf-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, viewport-fit=cover"
+  />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link rel="icon" href="{{ "img/favicon.ico" | relURL }}">
+
+  <meta name="keyword" content="{{ .Site.Params.keyword }}" />
+
+  {{- template "_internal/opengraph.html" . -}}
+
+  <title>{{ .Title }}</title>
+
+  <link rel="canonical" href="{{ .Permalink | relURL }}" />
+
+  <link rel="stylesheet" href="{{ "css/global.css" | relURL }}"> <link
+  rel="stylesheet" href="{{ "css/custom.css" | relURL }}"> <link
+  rel="stylesheet" href="{{ "css/search.css" | relURL }}" />
+
+  <!-- algolia related style -->
+  {{ if site.Params.algolia.enabled }} <link rel="stylesheet" href="{{
+  "css/autocomplete-theme-classic.css" | relURL }}" /> {{ end }}
+
+  <!-- custom style files -->
+  {{ range site.Params.css }}
+  <link rel="stylesheet" href="{{ .url | relURL }}" />
+  {{ end }}
+
+  <style>
+    .zalepik-nav-jasa > div {
+      width: 50%;
+      text-align: center;
+      letter-spacing: 1.5px;
+    }
+
+    .zalepik-nav-jasa > div > a {
+      font-size: 12px !important;
+    }
+
+    .zalepik-nav-jasa {
+      border-top: 1px solid hsla(0, 0%, 50%, 0.16);
+    }
+
+    .btn-contact {
+      background-color: #437bff !important;
+      display: inline-block;
+      color: white;
+      border-radius: 24px;
+      padding: 8px 16px;
+      transition: 180ms;
+    }
+
+    .btn-contact:hover {
+      background-color: #437bff !important;
+      display: inline-block;
+      color: rgba(255, 255, 255, 0.835) !important;
+      border-radius: 24px;
+      padding: 8px 16px;
+      transform: scale(1.1);
+    }
+
+    .btn-menu{
+        display: none !important;
+    }
+
+    .everydayfeed{
+        margin-top: 32px;
+    }
+
+    @media only screen and (max-width: 736px) {
+        .everydayfeed{
+margin-top:40px;
+        }
+        .btn-menu{
+        display: block !important;
+    }
+
+        .btn-contact {
+        flex-direction: column;
+      }
+
+      .nav {
+        height: 52px !important;
+        display: block !important;
+        width: 100% !important;
+        position: fixed !important;
+      }
+
+      .navDrawer.nav {
+        height: 100% !important;
+        display: block !important;
+        width: 100% !important;
+        position: fixed !important;
+      }
+
+      .nav-menu {
+        display: none;
+        flex-direction: column;
+      }
+
+      .navDrawer .nav-menu{
+        display: flex;
+      }
+
+      .nav-menu .nav-item-wrapper {
+        padding: 20px 12px !important;
+      }
+      .nav-content .btn-contact {
+        margin-bottom: 40px;
+      }
+
+      .btn-menu {
+        position: fixed;
+        right: 12px;
+        top: 8px;
+        z-index: 7;
+        font-size: 12px !important;
+        border: 1px solid rgba(128, 128, 128, 0.715);
+        padding: 4px 8px;
+        border-radius: 8px;
+        letter-spacing: 1.5px;
+        color: hsla(0, 0%, 10%, 0.8);
+      }
+
+      .navDrawer .nav-title {
+        width: 32px;
+        overflow: hidden;
+        text-align: left !important;
+        align-items: start;
+        display: none !important;
+      }
+
+      .zalepik-nav-jasa > div {
+        width: 100%;
+      }
+
+      .nav-menu {
+        width: 100%;
+      }
+
+      .nav-menu.zalepik-nav-jasa {
+        width: 100%;
+      }
+    }
+  </style>
+</head>

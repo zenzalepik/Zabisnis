@@ -1,0 +1,55 @@
+<div class="footer-main {{ if eq .dark true}} footer-dark {{ end }}">
+  <div class="content-body footer-wraper">
+    <div class="footer-box">
+      <div class="foot-nav">
+        <div class="foot-nav-items">
+          <div class="item">
+            <div class="logo">Hubungi Kami</div>
+            <div class="email">Email: <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a></div>
+            <div class="email">Telephone: <a href="tel:{{ site.Params.email }}">{{ site.Params.telephone }}</a></div>
+          </div>
+
+          <div class="item community">
+            <div class="item-title">Media Sosial</div>
+            {{ range site.Params.socialMedia }}
+              <a href="{{ .url }}" target="_blank">{{ .name}}</a>
+            {{ end }}
+          </div>
+
+          <div class="item resources">
+            <div class="item-title">Kunjungi Juga</div>
+              <a href="https://www.zalepik.com/zalearning" target="_blank">Zalearning</a>
+              <a href="https://www.zalepik.com" target="_blank">Zalepik.com</a>
+          </div>
+        </div>
+      </div>
+      <div class="bottom">
+        <div class="item copyright"><div style="text-align: center;">&copy; CV. Zalepik Software Developer {{ now.Format "2006" }} </div>
+        <div style="text-align: center; opacity: 0.72">Jasa Pembuatan Website dan Aplikasi & Jombang, Lampung, dan Seluruh Indonesia</div>
+        <div style="height:40px"></div>
+          <div style="text-align: center;opacity:0.24">Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> & <a href="https://github.com/floyd-li/hugo-theme-itheme" target="_blank">iTheme</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  const navMain = document.getElementById("navMain");
+  const btnMenuDrawer = document.getElementById("btnMenuDrawer");
+
+// Tambahkan event 'onclick'
+if (document.getElementById("navMain")) {function btnMenu(){
+  if (navMain.classList.contains("navDrawer")) {
+  // Elemen memiliki kelas "A"
+  console.log("Elemen memiliki kelas A.");navMain.classList.remove("navDrawer");
+  btnMenuDrawer.innerHTML='Menu';
+} else {
+  // Elemen tidak memiliki kelas "A"
+  console.log("Elemen tidak memiliki kelas A.");
+  navMain.classList.add("navDrawer");
+  btnMenuDrawer.innerHTML='Tutup';
+}
+}
+  }
+
+</script>
