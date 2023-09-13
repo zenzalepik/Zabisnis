@@ -1,17 +1,15 @@
 ---
-title: 'Berbisnis Online: Langkah Awal yang Harus Anda Ambil'
-date: '2023-09-06T13:07:42+07:00'
+title: 'Berbisnis Online, Langkah Awal yang Harus Anda Ambil'
+date: '2023-09-12T13:06:41+07:00'
 draft: false
-description: 'Merancang Rencana Bisnis yang Sukses'
+description: 'Mulai perjalanan bisnis online Anda dengan langkah-langkah awal yang tepat. Temukan panduan praktis untuk memasuki dunia bisnis digital.'
 author: 'Moh. Zainul Muttaqin'
-cover: 'https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-header-1920x1080-2e96869442d6.jpg?resize=1&w=1920'
-tags: ["Digital Bisnis", "Bisnis Online", "Pemasaran Digital", "Situs Web Bisnis", "SEO (Search Engine Optimization)",
+cover: 'https://zenzalepik.github.io/Zabisnis-Gambar/zalepik-software-developer-digital-bisnis-berbisnis-online-langkah-awal-yang-harus-anda-ambil.png'
+tags: ["Bisnis Digital", "Bisnis Online", "Pemasaran Digital", "Situs Web Bisnis", "SEO (Search Engine Optimization)",
 "Strategi Bisnis",
 "Analitik Bisnis",] 
 theme: 'light'
 ---
-# Berbisnis Online: Langkah Awal yang Harus Anda Ambil
-
 Di era digital yang terus berkembang pesat, berbisnis online menjadi salah satu jalur yang paling menjanjikan untuk meraih kesuksesan. Apakah Anda seorang pemula yang ingin memulai bisnis online atau seorang pengusaha yang ingin memanfaatkan potensi internet, langkah-langkah awal ini akan membantu Anda memahami bagaimana memulai berbisnis online dengan baik.
 
 **1. Ide Bisnis yang Jelas**

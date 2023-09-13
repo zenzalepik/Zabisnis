@@ -1,11 +1,12 @@
 ---
 title: 'Hak Cipta dan Hak Kekayaan Intelektual dalam Bisnis Digital'
-date: '2023-09-06T13:09:04+07:00'
+date: '2023-09-12T13:07:58+07:00'
 draft: false
 description: 'Jaga Karya Kreatif Anda: Konsultasikan dengan Ahli Hukum Kami Hari Ini!'
 author: 'Moh. Zainul Muttaqin'
 cover: 'https://zenzalepik.github.io/Zabisnis-Gambar/zalepik_software_developer_hak_cipta_hak_kekayaan_intelektual.png'
-tags: ["Hak Cipta",
+tags: ["Bisnis Digital",
+"Hak Cipta",
 "Hak Kekayaan Intelektual",
 "Perlindungan Hukum",
 "Bisnis Digital",

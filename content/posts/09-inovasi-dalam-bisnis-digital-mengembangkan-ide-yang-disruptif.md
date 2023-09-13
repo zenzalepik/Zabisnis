@@ -1,11 +1,12 @@
 ---
-title: 'Inovasi dalam Bisnis Digital: Mengembangkan Ide yang Disruptif'
-date: '2023-09-11T13:09:51+07:00'
+title: 'Inovasi dalam Bisnis Digital, Mengembangkan Ide yang Disruptif'
+date: '2023-09-12T13:08:02+07:00'
 draft: false
 description: 'Siap Membawa Bisnis Anda ke Tingkat Berikutnya dengan Inovasi?'
 author: 'Moh. Zainul Muttaqin'
-cover: 'https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-header-1920x1080-2e96869442d6.jpg?resize=1&w=1920'
-tags: ["Inovasi Bisnis",
+cover: 'https://zenzalepik.github.io/Zabisnis-Gambar/zalepik-software-developer-inovasi-dalam-bisnis-digital-mengembangkan-ide-yang-isruptif.png'
+tags: ["Bisnis Digital",
+"Inovasi Bisnis",
 "Ide Disruptif",
 "Transformasi Digital",
 "Budaya Inovasi",

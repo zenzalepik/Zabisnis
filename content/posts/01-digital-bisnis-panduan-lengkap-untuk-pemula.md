@@ -1,11 +1,11 @@
 ---
 title: 'Digital Bisnis Panduan Lengkap Untuk Pemula'
-date: '2023-09-06T13:07:09+07:00'
+date: '2023-09-07T13:07:09+07:00'
 draft: false
-description: 'Sebuah Wawasan Penting yang Perlu Diketahui Para Pebisnis Baru'
+description: 'Jelajahi panduan lengkap untuk memulai bisnis digital dari awal hingga sukses. Pelajari langkah-langkah kunci dan strategi terbaik untuk pemula.'
 author: 'Moh. Zainul Muttaqin'
-cover: 'https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-header-1920x1080-2e96869442d6.jpg?resize=1&w=1920'
-tags: ["Digital Bisnis", "Bisnis Online", "Pemasaran Digital", "Situs Web Bisnis", "SEO (Search Engine Optimization)",
+cover: 'https://zenzalepik.github.io/Zabisnis-Gambar/zalepik-software-developer-digital-bisnis-dgital-bisnis-panduan-lengkap-untuk-pemula.png'
+tags: ["Bisnis Digital", "Bisnis Online", "Pemasaran Digital", "Situs Web Bisnis", "SEO (Search Engine Optimization)",
 "Strategi Bisnis",
 "Analitik Bisnis",] 
 theme: 'light'

@@ -1,10 +1,10 @@
 ---
 title: 'Langkah-langkah dalam Membangun Aplikasi Mobile untuk Bisnis Anda'
-date: '2023-09-06T13:07:09+07:00'
+date: '2023-09-12T13:09:29+07:00'
 draft: false
 description: 'Temukan panduan langkah demi langkah dalam membangun aplikasi mobile yang sukses untuk bisnis Anda. Dari menentukan tujuan hingga peluncuran resmi, kami akan membantu Anda menciptakan aplikasi yang memenuhi kebutuhan Anda dan memberikan nilai tambah kepada pengguna Anda.'
 author: 'Moh. Zainul Muttaqin'
-cover: 'https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-header-1920x1080-2e96869442d6.jpg?resize=1&w=1920'
+cover: 'https://zenzalepik.github.io/Zabisnis-Gambar/zalepik-software-developer-langkah-langkah-dalam-membangun-aplikasi-mobile-untuk-bisnis-anda.png'
 tags: ["Aplikasi Mobile", "Pengembangan Aplikasi", "Mobile App Development", "User Experience", "Keamanan Aplikasi", "Peluncuran Aplikasi", "Pemasaran Aplikasi", "Analisis Aplikasi", "Keamanan Data Mobile", "Perencanaan Aplikasi"] 
 theme: 'light'
 ---

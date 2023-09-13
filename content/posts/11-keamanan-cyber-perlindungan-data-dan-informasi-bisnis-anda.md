@@ -1,14 +1,13 @@
 ---
 title: 'Keamanan Cyber, Perlindungan Data dan Informasi Bisnis Anda'
-date: '2023-09-06T13:07:09+07:00'
+date: '2023-09-12T13:08:55+07:00'
 draft: false
 description: 'Langkah Penting untuk Melindungi Data Bisnis Anda dari Ancaman Cyber'
 author: 'Moh. Zainul Muttaqin'
-cover: 'https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-header-1920x1080-2e96869442d6.jpg?resize=1&w=1920'
-tags: ["Keamanan Cyber", "Perlindungan Data", "Ancaman Cyber", "Keamanan Informasi", "Cybersecurity", "Pemantauan Keamanan", "Kebijakan Keamanan", "Enkripsi Data", "Cadangan Data", "Keamanan Bisnis"] 
+cover: 'https://zenzalepik.github.io/Zabisnis-Gambar/zalepik-software-developer-keamanan-cyber-perlindungan-data-dan-informasi-bisnis-anda.png'
+tags: ["Bisnis Digital", "Keamanan Cyber", "Perlindungan Data", "Ancaman Cyber", "Keamanan Informasi", "Cybersecurity", "Pemantauan Keamanan", "Kebijakan Keamanan", "Enkripsi Data", "Cadangan Data", "Keamanan Bisnis"] 
 theme: 'light'
 ---
-
 Di era digital ini, data dan informasi bisnis adalah aset paling berharga yang harus dijaga dengan hati-hati. Ancaman keamanan cyber semakin kompleks dan dapat mengancam eksistensi bisnis Anda jika tidak ditangani dengan serius. Dalam artikel ini, kami akan membahas pentingnya keamanan cyber dan langkah-langkah yang dapat Anda ambil untuk melindungi data dan informasi bisnis Anda.
 
 # **1. Mengidentifikasi Ancaman Cyber**
